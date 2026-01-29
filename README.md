@@ -11,12 +11,6 @@
   <a href="https://github.com/voddiak?tab=repositories">
     <img src="https://img.shields.io/github/stars/voddiak?label=stars&style=flat-square" />
   </a>
-  <a href="https://tryhackme.com/p/voddiak">
-    <img src="https://img.shields.io/badge/tryhackme-profile-000000?style=flat-square" />
-  </a>
-  <a href="https://www.hackthebox.com/profile/voddiak">
-    <img src="https://img.shields.io/badge/hackthebox-profile-000000?style=flat-square" />
-  </a>
 </p>
 
 ---
@@ -42,7 +36,7 @@ Interested in both offensive and defensive approaches, with an emphasis on hands
 ## technical stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,git,docker,wireshark" />
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,lua" />
 </p>
 
 ---
