@@ -21,13 +21,10 @@ Interested in both offensive and defensive approaches, with an emphasis on hands
 
 
 ## areas of interest
-
-- penetration testing  
+ 
 - network security  
-- operating systems & internals  
-- web application security  
-- digital forensics  
-- threat analysis  
+- operating systems & internals    
+- digital forensics    
 
 
 ## technical stack
