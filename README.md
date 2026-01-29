@@ -44,10 +44,7 @@ Interested in both offensive and defensive approaches, with an emphasis on hands
 ## contact
 
 <p>
-  <a href="mailto:you@email.com">
-    <img src="https://img.shields.io/badge/email-contact-000000?style=flat-square" />
-  </a>
-  <a href="https://www.linkedin.com/in/voddiak">
+  <a href="https://www.linkedin.com/in/nathan-canella-a08322385/">
     <img src="https://img.shields.io/badge/linkedin-profile-000000?style=flat-square" />
   </a>
 </p>
