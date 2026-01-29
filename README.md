@@ -13,14 +13,12 @@
   </a>
 </p>
 
----
 
 ## about
 
 Cybersecurity student focused on building strong fundamentals in systems, networks, and application security.  
 Interested in both offensive and defensive approaches, with an emphasis on hands-on learning and technical depth.
 
----
 
 ## areas of interest
 
@@ -31,7 +29,6 @@ Interested in both offensive and defensive approaches, with an emphasis on hands
 - digital forensics  
 - threat analysis  
 
----
 
 ## technical stack
 
@@ -39,7 +36,6 @@ Interested in both offensive and defensive approaches, with an emphasis on hands
   <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,lua" />
 </p>
 
----
 
 ## contact
 
