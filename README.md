@@ -1,46 +1,95 @@
-<h1 align="center">voddiak</h1>
+# Nathan Canella / [@voddiak]
 
-<p align="center">
-  cybersecurity student · offensive & defensive security · Paris, France
-</p>
+First-Year Cybersecurity Student at EPITA  
+Aspiring System & Security Engineer  
 
-<p align="center">
-  <a href="https://github.com/voddiak">
-    <img src="https://img.shields.io/github/followers/voddiak?label=followers&style=flat-square" />
-  </a>
-  <a href="https://github.com/voddiak?tab=repositories">
-    <img src="https://img.shields.io/github/stars/voddiak?label=stars&style=flat-square" />
-  </a>
-</p>
+---
 
+## About Me
 
-## about
+I am currently a first-year cybersecurity student at EPITA – School of Engineering and Computer Science.
 
-Cybersecurity student focused on building strong fundamentals in systems, networks, and application security.  
-Interested in both offensive and defensive approaches, with an emphasis on hands-on learning and technical depth.
+Passionate about systems, networks, and secure infrastructure, I am building strong foundations in computer science while exploring cybersecurity fundamentals.
 
+I am particularly interested in:
 
-## areas of interest
- 
-- network security  
-- operating systems & internals    
-- digital forensics    
+- Linux systems
+- Network architecture
+- Offensive security basics
+- Low-level programming concepts
 
+My goal is to progressively develop strong technical expertise in system administration and security engineering.
 
-## technical stack
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,javascript,html,css,lua" />
-</p>
+## Technical Foundations
 
+### Systems
+- Linux environments (Debian, Arch)
+- Command line usage
+- Basic system configuration
 
-## contact
+### Programming
+- C (memory, pointers, fundamental concepts)
+- Python (scripting and automation basics)
 
-<p>
-  <a href="https://www.linkedin.com/in/nathan-canella-a08322385/">
-    <img src="https://img.shields.io/badge/linkedin-profile-000000?style=flat-square" />
-  </a>
-  <a href="https://twitter.com/voddiak">
-    <img src="https://img.shields.io/badge/twitter-@voddiak-000000?style=flat-square" />
-  </a>
-</p>
+### Networking
+- TCP/IP fundamentals
+- Packet analysis with Wireshark
+- Introductory network security concepts
+
+---
+
+## Education
+
+### EPITA – School of Engineering and Computer Science  
+Bachelor in Cybersecurity (2025–2028, Expected)
+
+Current focus:
+- Computer science fundamentals
+- Algorithms and data structures
+- Programming methodologies
+- Introduction to system and network security
+
+### Lycée Marie Curie – Sceaux  
+General Baccalauréat (2025)  
+Specializations:
+- Digital & Computer Sciences (NSI)
+- Foreign Languages (LLCE)  
+- Honors
+
+---
+
+## Portfolio Project
+
+This repository contains the source code of my personal portfolio website.
+
+Built with:
+- HTML5
+- CSS3 (custom design system, dark/light mode)
+- Vanilla JavaScript
+
+The project reflects my interest in structured design, clean interfaces, and system-oriented aesthetics.
+
+---
+
+## Current Objectives
+
+- Strengthen my Linux knowledge  
+- Improve my C programming skills  
+- Practice networking fundamentals  
+- Build small security-oriented projects  
+- Gain practical experience through internships  
+
+---
+
+## Contact
+
+GitHub: https://github.com/voddiak  
+LinkedIn: https://linkedin.com/in/nathan-canella-a08322385  
+Email: contact@nathancanella.fr  
+
+---
+
+Nathan Canella  
+Cybersecurity Student
