@@ -5,7 +5,6 @@ First-Year Cybersecurity Student at EPITA <br>
 Aspiring System & Security Engineer
 </p>
 
----
 
 <h2 align="center">About Me</h2>
 
@@ -20,7 +19,6 @@ I am particularly interested in:
 - Offensive security fundamentals  
 - Low-level programming  
 
----
 
 <h2 align="center">Technical Foundations</h2>
 
@@ -38,7 +36,6 @@ I am particularly interested in:
 - Packet analysis (Wireshark)
 - Introductory network security concepts
 
----
 
 <h2 align="center">Education</h2>
 
@@ -58,7 +55,6 @@ Specializations:
 - Foreign Languages (LLCE)  
 - Honors  
 
----
 
 <h2 align="center">Portfolio</h2>
 
@@ -71,7 +67,6 @@ Built with:
 
 The project reflects my interest in structured design, clean interfaces, and system-oriented aesthetics.
 
----
 
 <h2 align="center">Current Objectives</h2>
 
@@ -81,7 +76,6 @@ The project reflects my interest in structured design, clean interfaces, and sys
 - Build security-oriented personal projects  
 - Gain practical experience through internships  
 
----
 
 <h2 align="center">Contact</h2>
 
@@ -91,7 +85,6 @@ LinkedIn: https://linkedin.com/in/nathan-canella-a08322385 <br>
 Email: contact@nathancanella.fr
 </p>
 
----
 
 <p align="center">
 Nathan Canella <br>
