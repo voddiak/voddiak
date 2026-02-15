@@ -1,11 +1,13 @@
-# Nathan Canella / [@voddiak]
+<h1 align="center">Nathan Canella</h1>
 
-First-Year Cybersecurity Student at EPITA  
-Aspiring System & Security Engineer  
+<p align="center">
+First-Year Cybersecurity Student at EPITA <br>
+Aspiring System & Security Engineer
+</p>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I am currently a first-year cybersecurity student at EPITA – School of Engineering and Computer Science.
 
@@ -13,83 +15,85 @@ Passionate about systems, networks, and secure infrastructure, I am building str
 
 I am particularly interested in:
 
-- Linux systems
-- Network architecture
-- Offensive security basics
-- Low-level programming concepts
-
-My goal is to progressively develop strong technical expertise in system administration and security engineering.
+- Linux systems  
+- Network architecture  
+- Offensive security fundamentals  
+- Low-level programming  
 
 ---
 
-## Technical Foundations
+<h2 align="center">Technical Foundations</h2>
 
 ### Systems
-- Linux environments (Debian, Arch)
-- Command line usage
+- Linux (Debian, Arch)
+- Command line proficiency
 - Basic system configuration
 
 ### Programming
-- C (memory, pointers, fundamental concepts)
-- Python (scripting and automation basics)
+- C (memory management, pointers, core concepts)
+- Python (scripting & automation basics)
 
 ### Networking
 - TCP/IP fundamentals
-- Packet analysis with Wireshark
+- Packet analysis (Wireshark)
 - Introductory network security concepts
 
 ---
 
-## Education
+<h2 align="center">Education</h2>
 
-### EPITA – School of Engineering and Computer Science  
+**EPITA – School of Engineering and Computer Science**  
 Bachelor in Cybersecurity (2025–2028, Expected)
 
 Current focus:
-- Computer science fundamentals
-- Algorithms and data structures
-- Programming methodologies
-- Introduction to system and network security
+- Computer science fundamentals  
+- Algorithms & data structures  
+- Programming methodologies  
+- System & network security introduction  
 
-### Lycée Marie Curie – Sceaux  
+**Lycée Marie Curie – Sceaux**  
 General Baccalauréat (2025)  
 Specializations:
-- Digital & Computer Sciences (NSI)
+- Digital & Computer Sciences (NSI)  
 - Foreign Languages (LLCE)  
-- Honors
+- Honors  
 
 ---
 
-## Portfolio Project
+<h2 align="center">Portfolio</h2>
 
 This repository contains the source code of my personal portfolio website.
 
 Built with:
-- HTML5
-- CSS3 (custom design system, dark/light mode)
-- Vanilla JavaScript
+- HTML5  
+- CSS3 (custom design system, dark/light mode)  
+- Vanilla JavaScript  
 
 The project reflects my interest in structured design, clean interfaces, and system-oriented aesthetics.
 
 ---
 
-## Current Objectives
+<h2 align="center">Current Objectives</h2>
 
-- Strengthen my Linux knowledge  
-- Improve my C programming skills  
-- Practice networking fundamentals  
-- Build small security-oriented projects  
+- Strengthen Linux knowledge  
+- Improve C programming skills  
+- Deepen networking fundamentals  
+- Build security-oriented personal projects  
 - Gain practical experience through internships  
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
-GitHub: https://github.com/voddiak  
-LinkedIn: https://linkedin.com/in/nathan-canella-a08322385  
-Email: contact@nathancanella.fr  
+<p align="center">
+GitHub: https://github.com/voddiak <br>
+LinkedIn: https://linkedin.com/in/nathan-canella-a08322385 <br>
+Email: contact@nathancanella.fr
+</p>
 
 ---
 
-Nathan Canella  
+<p align="center">
+Nathan Canella <br>
 Cybersecurity Student
+</p>
