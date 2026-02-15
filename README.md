@@ -49,7 +49,7 @@ Current focus:
 - System & network security introduction  
 
 **Lycée Marie Curie – Sceaux, France**  
-French General Baccalauréat (2025)  
+French General Baccalauréat (High School Diploma), 2025  
 Specializations:
 - Digital & Computer Sciences (NSI)  
 - Foreign Languages (LLCE)  
