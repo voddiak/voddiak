@@ -48,8 +48,8 @@ Current focus:
 - Programming methodologies  
 - System & network security introduction  
 
-**Lycée Marie Curie – Sceaux**  
-General Baccalauréat (2025)  
+**Lycée Marie Curie – Sceaux, France**  
+French General Baccalauréat (2025)  
 Specializations:
 - Digital & Computer Sciences (NSI)  
 - Foreign Languages (LLCE)  
